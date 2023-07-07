@@ -7,16 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
-  },
   "author": "Rayudu Chandu",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamshaunjp/node-crash-course/issues"
-  },
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
   "dependencies": {
     "ejs": "^3.1.2",
     "express": "^4.17.1",
