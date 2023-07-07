@@ -1,7 +1,7 @@
 {
   "name": "novel-enhnacer",
   "version": "1.0.0",
-  "description": "An application which can enhance Novel reading exprience",
+  "description": "An novel reading and viewing application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
